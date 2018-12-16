@@ -3,6 +3,7 @@ This model actually helps radiologist to draw the region of interest and then co
 <br>
 To get started with the model
 <ul>
+  <li> Clone this repository </li>
   <li> Open your command prompt</li>
   <li> change your path so that it is now in this directory, or just type cmd in address bar from this directory</li>
   <li> type 'python main.py', this will train the model for 100 epochs</li>
